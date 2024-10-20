@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/c/Users/angel/Desktop/TUTORIAL3/build",
+  "command": "/usr/bin/c89-gcc   -g -std=gnu11 -o CMakeFiles/butler.dir/butler.c.o -c /mnt/c/Users/angel/Desktop/TUTORIAL3/butler.c",
+  "file": "/mnt/c/Users/angel/Desktop/TUTORIAL3/butler.c",
+  "output": "CMakeFiles/butler.dir/butler.c.o"
+}
+]
